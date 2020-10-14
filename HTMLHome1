@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title style="text-align:center">Carter Schmidt Personal Website</title>
+    </head>
+    <body style = "font-family:Calibri">
+        <h1 style="text-align:center"> Carter Schmidt</h1>
+        <h2 style="text-align:left">Background Information: </h2>
+            <a style = "text-align:left" href="CarterSchmidtResume.docx" download target="_blank">Resume</a> <br>
+            <a style = "text-align:left" href="VillanovaCSCourseList.docx" download target="_blank">Relevant Courses</a>
+    </body>
+</html>
